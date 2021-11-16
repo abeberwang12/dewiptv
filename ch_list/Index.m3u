@@ -249,16 +249,6 @@ https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendti
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rai Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rai_Sport_-_Logo_2017.svg/1280px-Rai_Sport_-_Logo_2017.svg.png" group-title="Sports",Rai Sport
 https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports 1 Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Sports",TNT Sports 1 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports 2 Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Sports",TNT Sports 2 Brazil
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports 3 Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Sports",TNT Sports 3 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports 4 Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Sports",TNT Sports 4 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports 5 Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Sports",TNT Sports 5 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trace Sport Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png" group-title="Sports",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVRI Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/TVRISportHD.png" group-title="Sports",TVRI Sports
@@ -455,8 +445,6 @@ https://stream.unrealhosting.hu:443/hls/pannonrtv/live.m3u8
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planeta RTR" tvg-logo="" group-title="Undefined",Planeta RTR
 https://a3569455801-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pro TV International" tvg-logo="" group-title="Undefined",Pro TV International
-http://iptvtree.net:8080/geniptv/4faed690fd/194672
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="QVC Japan" tvg-logo="" group-title="Undefined",QVC Japan
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shop HQ" tvg-logo="" group-title="Undefined",Shop HQ
