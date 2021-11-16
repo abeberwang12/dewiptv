@@ -79,8 +79,6 @@ https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8
 https://stream.y5.hu/stream/stream_rtlp/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sorozat Plus" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/sorozat_plusz_2018_wide.png" group-title="General",Sorozat Plus
 https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVP 1" tvg-logo="" group-title="General",TVP 1
-http://207.110.52.61:8080/s/hls/5/9584/tvp1_276/1/1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVR 1" tvg-logo="https://wp19-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10001_c_0796235930ec9dccdb96fc1dbd0e82ab.png" group-title="General",TVR 1
 https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/chunklist_b8288000.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVR 2" tvg-logo="https://wp8-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10002_c_80ff113858e8407d4408d0b1baf4a497.png" group-title="General",TVR 2
@@ -103,12 +101,6 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Str
 http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 1 HD " tvg-logo="https://telesputnik.ru/upload/iblock/2d6/Rossiya-1_b.jpg" group-title="General",Россия 1 HD 
 https://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="&Flix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="Movies",&Flix HD
-https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&Pictures" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Movies",&Pictures
-https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&Privé HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/%26priv%C3%A9_HD.svg/revision/latest/scale-to-width-down/732?cb=20200" group-title="Movies",&Privé HD
-https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN Asia (Indonesia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Asia (Indonesia)
 http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies",Cinemax Asia
