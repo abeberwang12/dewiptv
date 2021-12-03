@@ -357,6 +357,8 @@ http://188.40.68.167/russia/disney/playlist.m3u8ZDVDFGekt2N3c9PSZ2YWxpZG1pbnV0ZX
 https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1HD Music TV" tvg-logo="" group-title="Music",1HD Music TV
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Atomic TV" tvg-logo="https://www.atomictv.ro/wp-content/uploads/2021/10/Atomic_TV-1024x257.png" group-name="Music",Atomic TV
+https://atomic.streamnet.ro/atomictv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Balkanika MTV" tvg-logo="" group-title="Music",Balkanika MTV
 rtsp://stream.teracomm.bg/balkanika
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="California Music Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png" group-title="Music",California Music Channel
