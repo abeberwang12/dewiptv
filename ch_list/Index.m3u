@@ -6,17 +6,13 @@ https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Balti TV" tvg-logo="https://www.btv.md/wp-content/uploads/2019/01/BTV.png" group-title="General",Balti TV
 http://77.89.199.174:8000/play/1024/index.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV-1" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/0f/CCTV-1.png/revision/latest?cb=20200821151602" group-title="General",CCTV-1
-http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225852/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV-12" tvg-logo="https://i.postimg.cc/k4mF3pn2/CCTV-12-Logo.png" group-title="General",CCTV-12
 http://223.82.250.72/live/cctv-12/1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV-13" tvg-logo="https://i.pinimg.com/originals/a1/70/5d/a1705d6d5f34cc8ea4d01f153952cf25.png" group-title="General",CCTV-13
 http://ivi.neu6.edu.cn/hls/cctv13hd.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV-15" tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/CCTV-15_Logo.png" group-title="General",CCTV-15
 http://223.82.250.72/live/cctv-15/1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV-1HD" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/0f/CCTV-1.png/revision/latest?cb=20200821151602" group-title="General",CCTV-1HD
-http://223.82.250.72/live/hdcctv01/1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV-3HD" tvg-logo="https://i.postimg.cc/RVkmB7nk/cctv3.png" group-title="General",CCTV-3HD
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226360/index.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV-4" tvg-logo="https://videotron.com/vtrn/images/channels/logos/cctv4/cctv4_moyenne.png" group-title="General",CCTV-4
 http://223.82.250.72/live/cctv-4/1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV-5+" tvg-logo="http://cdn.startimestv.com/static/files/console/127f663c-3a8d-4644-8b73-03bc2a55a9a6.png" group-title="General",CCTV-5+
