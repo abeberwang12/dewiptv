@@ -99,24 +99,12 @@ http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
 https://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN Asia (Indonesia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Asia (Indonesia)
 http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies",Cinemax Asia
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax Asia (Vietnam)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies",Cinemax Asia
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/FILM%2B_logo_2014_Hungary.png/1200px-FILM%2B_logo_2014_Hungary.png" group-title="Movies",Film +
 https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Happy Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/6/69/Euforia-logo.png" group-title="Movies",Happy Channel
-https://iptv-all.lanesh4d0w.codes/romania/happy-channel 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Asia" tvg-logo="https://www.pngkit.com/png/full/897-8976694_hbologo-hbo-logo-png.png" group-title="Movies",HBO Asia
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO family asia " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/HBO_Family_Asia_2009.svg/revision/latest/scale-to-width-down/250?cb=20201126030257" group-title="Movies",HBO family asia 
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies",HBO Hits
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Malaysia" tvg-logo="https://www.pngkit.com/png/full/897-8976694_hbologo-hbo-logo-png.png" group-title="Movies",HBO Malaysia
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Plus Brazil" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s75537_dark_360w_270h.png" group-title="Movies",HBO Plus Brazil
-http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/6375
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Signature Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movies",HBO Signature Asia
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8 
+https://iptv-all.lanesh4d0w.codes/romania/happy-channel  
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kix TV Asia (Indonesia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="Movies",Kix TV Asia (Indonesia)
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thrill TV Asia (Indonesia) " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest/scale-to-width-down/340?cb=2017060605" group-title="Movies",Thrill TV Asia (Indonesia) 
