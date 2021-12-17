@@ -158,9 +158,7 @@ http://ott-cdn.ucom.am/s80/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel Guide TV" tvg-logo="" group-title="Documentary",Travel Guide TV
 https://cdn10.live-tv.od.ua:8083/leonovtv/test-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel Mix" tvg-logo="" group-title="Documentary",Travel Mix
-http://89.38.8.131:39520/ 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel Mix HD" tvg-logo="" group-title="Documentary",Travel Mix HD
-http://103.145.13.15:25461/live/nou/nou/3.m3u8
+http://89.38.8.131:39520/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel XP" tvg-logo="" group-title="Documentary",Travel XP
 https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Купьтура" tvg-logo="" group-title="Documentary",Купьтура
