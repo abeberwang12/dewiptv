@@ -95,6 +95,8 @@ http://203.154.243.89:11205/
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Antena Stars" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/6/60/Antena_Stars_%282013-.n.v.%29.png/revision/latest?cb=20210407180539" group-title="Documentary",Antena Stars
 https://iptv-all.lanesh4d0w.codes/romania/astars 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV-9" tvg-logo="" group-title="Documentary",CCTV-9
+http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTN Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV Czech&slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Documentary",Fashion TV Czech&slovak
