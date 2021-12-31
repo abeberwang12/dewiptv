@@ -1,6 +1,6 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="Antena1.ro" tvg-name="Antena 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/1200px-Logo_Antena_1_%282010%29.svg.png" group-title="General",Antena 1
-https://iptv-all.lanesh4d0w.codes/romania/a1
+#EXTINF:-1 tvg-id="Protv.ro" tvg-name="Pro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1200px-Logo_Pro_TV_%282017%29.svg.pngg" group-title="General",Pro TV
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-protv/playlist/rum/live_fullhd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Atv HU" tvg-logo="https://24.p3k.hu/app/uploads/2018/03/atv_2018_wide.png" group-title="General",Atv HU
 https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Balti TV" tvg-logo="https://www.btv.md/wp-content/uploads/2019/01/BTV.png" group-title="General",Balti TV
