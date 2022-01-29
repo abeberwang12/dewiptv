@@ -86,11 +86,11 @@ https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Happy Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/6/69/Euforia-logo.png" group-title="Movies",Happy Channel
 https://iptv-all.lanesh4d0w.codes/romania/happy-channel
 #EXTINF:-1 tvg-id="Pro2.ro" tvg-name="Pro 2" tvg-logo="" group-title="Movies", Pro 2
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-pro2/playlist/rum/live_hq.m3u8?offsetSeconds=0&url=0 
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-pro2/playlist/rum/live_hq.m3u8
 #EXTINF:-1 tvg-id="ProCinema.ro" tvg-name="Pro Cinema" tvg-logo="" group-title="Movies", Pro Cinema
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-procinema/playlist/rum/live_hq.m3u8?offsetSeconds=0&url=0 
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-procinema/playlist/rum/live_hq.m3u8
 #EXTINF:-1 tvg-id="ProGold.ro" tvg-name="Pro Gold" tvg-logo="" group-title="Movies",Pro Gold
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-progold/playlist/rum/live_hq.m3u8?offsetSeconds=0&url=0
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-progold/playlist/rum/live_hq.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kix TV Asia (Indonesia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="Movies",Kix TV Asia (Indonesia)
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thrill TV Asia (Indonesia) " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest/scale-to-width-down/340?cb=2017060605" group-title="Movies",Thrill TV Asia (Indonesia) 
@@ -218,7 +218,7 @@ https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mat TV" tvg-logo="" group-title="Sports",Mat TV
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8 
 #EXTINF:-1 tvg-id="ProX.ro" tvg-name="Pro X" tvg-logo="" group-title="Sports",Pro X
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-prox/playlist/rum/live_hq.m3u8?offsetSeconds=0&url=0
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-prox/playlist/rum/live_hq.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trace Sport Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png" group-title="Sports",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVRI Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/TVRISportHD.png" group-title="Sports",TVRI Sports
@@ -398,7 +398,7 @@ http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessioni
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anixe HD" tvg-logo="" group-title="Undefined",Anixe HD
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pro TV International" tvg-logo="" group-title="Undefined",Pro TV International
-https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/v5Elkh4I6gj78NqdLbaDMg==,1643420783/channels/cme-ro-protv-international/playlist/rum/live_fullhd.m3u8?offsetSeconds=0&url=1 
+https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/v5Elkh4I6gj78NqdLbaDMg==,1643420783/channels/cme-ro-protv-international/playlist/rum/live_fullhd.m3u8?
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Apostol TV" tvg-logo="" group-title="Undefined",Apostol TV
 https://live.apostoltv.hu/online/smil:gazdagret.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATV" tvg-logo="" group-title="Undefined",ATV
