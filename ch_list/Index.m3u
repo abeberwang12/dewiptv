@@ -361,8 +361,6 @@ http://fms-https1.mediadirect.ro/live3/_definst_/kiss/chunklist_w633790898.m3u8
 https://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mezzo" tvg-logo="" group-title="Music",Mezzo
 http://ott-cdn.ucom.am/s35/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Hits Europe" tvg-logo="" group-title="Music",MTV Hits Europe
-http://188.40.68.167/russia/mtv_hits/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music 24" tvg-logo="" group-title="Music",Music 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music Channel HU" tvg-logo="" group-title="Music",Music Channel HU
