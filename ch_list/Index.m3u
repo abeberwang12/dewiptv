@@ -328,7 +328,7 @@ http://210.210.155.35/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animax Asia (Vietnam) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Kids",Animax Asia (Vietnam) 
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8  
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animax Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Kids",Animax Japan
-http://50.7.74.29:8880/hls/j00026/index.m3u8
+http://51.79.193.108:8080/hls/j00026/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aniplus Asia (Malaysian subs) " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20180531073555" group-title="Kids",Aniplus Asia (Malaysian subs) 
 http://210.210.155.35/dr9445/h/h02/01.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT-X" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/800px-AT-X_logo.svg.png" group-title="Kids",AT-X
