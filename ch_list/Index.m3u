@@ -231,6 +231,8 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://stream-aleph.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alpeh News" tvg-logo="https://alephnews.ro/wp-content/themes/aleph-news/img/logo-alephnews-vertical.png" group-title="News",Alpeh News
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alpeh Smart TV" tvg-logo="" group-title="News",Alpeh Smart TV
+https://stream-aleph.m.ro/Aleph/ngrp:Smartv.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Antena 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Antena_3_%282016-present%29.png/revision/latest/scale-to-width-down/200?cb=20201215143737" group-title="News",Antena 3
 https://iptv-all.lanesh4d0w.codes/romania/a3 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B1" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/1/13/B1_logo_2021.png" group-title="News",B1
