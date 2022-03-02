@@ -323,6 +323,8 @@ https://rt-france.secure.footprint.net/1107.m3u8?streamType=live
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 24" tvg-logo="https://lh3.googleusercontent.com/proxy/VseB-lqXUQQoO68WQ8VDMK_hBoUte6r-VY3mj08PynW6jN_BMXKptjByIlAgAtahaXQXek5MihJZMxj0KtG3t6OL5w8g4GgLM-9Ut3L3JDFl_6vQ-Ft0ZRPdDQMg3lXLhh7qQ-iOK_Kv5gDgfBdC" group-title="News",Россия 24
 http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist.m3u8
+#EXTINF:-1 tvg-ud="(no tvg-id)" tvg-name="Украïна 24" tvg-logo="" group-title="News",Украïна 24
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCMp5Buw-6LpbbV9r9Sl_5yg/live
 #EXTINF:-1 tvg-id="AnimaxAsia.jp" tvg-name="Animax Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Kids",Animax Asia
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animax Asia (Indonesia) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Kids",Animax Asia (Indonesia) 
