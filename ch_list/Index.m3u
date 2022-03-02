@@ -1,6 +1,4 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="Protv.ro" tvg-name="Pro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1200px-Logo_Pro_TV_%282017%29.svg.pngg" group-title="General",Pro TV
-https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/AipMYUmnL1es0gkySM8UaQ==,1644621301/channels/cme-ro-protv/playlist/rum/live_fullhd.m3u8?offsetSeconds=0&url=1
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Atv HU" tvg-logo="https://24.p3k.hu/app/uploads/2018/03/atv_2018_wide.png" group-title="General",Atv HU
 https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Balti TV" tvg-logo="https://www.btv.md/wp-content/uploads/2019/01/BTV.png" group-title="General",Balti TV
@@ -83,16 +81,8 @@ http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/FILM%2B_logo_2014_Hungary.png/1200px-FILM%2B_logo_2014_Hungary.png" group-title="Movies",Film +
 https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Happy Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/6/69/Euforia-logo.png" group-title="Movies",Happy Channel
-https://iptv-all.lanesh4d0w.codes/romania/happy-channel
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One TV (Indonesia)" tvg-logo="" group-name="Movies",One TV (Indonesia)
 http://210.210.155.35/uq2663/h/h143/02.m3u8
-#EXTINF:-1 tvg-id="Pro2.ro" tvg-name="Pro 2" tvg-logo="" group-title="Movies", Pro 2
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-pro2/playlist/rum/live_hq.m3u8
-#EXTINF:-1 tvg-id="ProCinema.ro" tvg-name="Pro Cinema" tvg-logo="" group-title="Movies", Pro Cinema
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-procinema/playlist/rum/live_hq.m3u8
-#EXTINF:-1 tvg-id="ProGold.ro" tvg-name="Pro Gold" tvg-logo="" group-title="Movies",Pro Gold
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-progold/playlist/rum/live_hq.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kix TV Asia (Indonesia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="Movies",Kix TV Asia (Indonesia)
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thrill TV Asia (Indonesia) " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest/scale-to-width-down/340?cb=2017060605" group-title="Movies",Thrill TV Asia (Indonesia) 
@@ -100,9 +90,7 @@ http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner TV Asia (Thailand) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Movies",Warner TV Asia (Thailand) 
 http://203.154.243.89:11205/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner TV Asia (Vietnam) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1280px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="Movies",Warner TV Asia (Vietnam) 
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Antena Stars" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/6/60/Antena_Stars_%282013-.n.v.%29.png/revision/latest?cb=20210407180539" group-title="Documentary",Antena Stars
-https://iptv-all.lanesh4d0w.codes/romania/astars 
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8  
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV-9" tvg-logo="" group-title="Documentary",CCTV-9
 http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTN Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary",CGTN Documentary
@@ -114,7 +102,7 @@ https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Documentary",Fashion TV Europe
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel Mix 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Travel_Mix_4K_%282020%29.png/revision/latest/scale-to-width-down/250?cb=20210418050436" group-title="Documentary",Travel Mix 4K
-http://103.145.13.15:25461/live/nou/nou/5.m3u8
+http://103.145.13.15:25461/live/promo/promo/5.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Documentary",Fashion TV Italy
 https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV Mumbai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Documentary",Fashion TV Mumbai
@@ -219,8 +207,6 @@ https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendti
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mat TV" tvg-logo="" group-title="Sports",Mat TV
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8 
-#EXTINF:-1 tvg-id="ProX.ro" tvg-name="Pro X" tvg-logo="" group-title="Sports",Pro X
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-prox/playlist/rum/live_hq.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trace Sport Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png" group-title="Sports",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVRI Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/TVRISportHD.png" group-title="Sports",TVRI Sports
@@ -234,9 +220,7 @@ https://stream-aleph.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alpeh News" tvg-logo="https://alephnews.ro/wp-content/themes/aleph-news/img/logo-alephnews-vertical.png" group-title="News",Alpeh News
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alpeh Smart TV" tvg-logo="" group-title="News",Alpeh Smart TV
-https://stream-aleph.m.ro/Aleph/ngrp:Smartv.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Antena 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Antena_3_%282016-present%29.png/revision/latest/scale-to-width-down/200?cb=20201215143737" group-title="News",Antena 3
-https://iptv-all.lanesh4d0w.codes/romania/a3 
+https://stream-aleph.m.ro/Aleph/ngrp:Smartv.stream_all/playlist.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B1" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/1/13/B1_logo_2021.png" group-title="News",B1
 https://stream.adunity.com/b1/b1.m3u8
 #EXTINF:-1 tvg-id="BBCWorldNews.us" tvg-name="BBC World News" tvg-logo="" group-title="News",BBC World News
@@ -263,8 +247,6 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN US" tvg-logo="" group-title="News",CNN US
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi 24" tvg-logo="" group-title="News",Digi 24
-https://edge74.rcs-rds.ro/V4-5289983-a2e60f05d11c9ffd7da25758ed3c9f0d-88425061-0-1611067955-477-digi24/digi24/digi24-abr.m3u8?is=4&ns=digi24&pe=site&s=site&sn=digi24.ro&p=browser&pd=windows&quality=hq&t=00000000000000000000000000000000&t4=V4-5289983-a2e60f05d11c9ffd7da25758ed3c9f0d-88425061-0-1611067955-477-digi24
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW Arabic" tvg-logo="" group-title="News",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW English" tvg-logo="" group-title="News",DW English
@@ -309,8 +291,6 @@ https://stream1.profit.ro:1945/profit/livestream/chunklist_w243257193.m3u8
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaPlus(src01).ro " tvg-name="Realitatea Plus" tvg-logo="" group-title="News",Realitatea Plus
 https://livestream.realitatea.net/livestream/liverealitatea.stream/chunklist.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Romania TV" tvg-logo="" group-title="News",Romania TV
-https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT Arabic" tvg-logo="" group-title="News",RT Arabic
 https://rt-arb.gcdn.co/live/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT EN" tvg-logo="" group-title="News",RT EN
@@ -348,9 +328,7 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Atomic TV" tvg-logo="https://www.atomictv.ro/wp-content/uploads/2021/10/Atomic_TV-1024x257.png" group-name="Music",Atomic TV
 https://atomic.streamnet.ro/atomictv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Balkanika MTV" tvg-logo="" group-title="Music",Balkanika MTV
-rtsp://stream.teracomm.bg/balkanika
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="California Music Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png" group-title="Music",California Music Channel
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8 
+rtsp://stream.teracomm.bg/balkanika 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dibi TV" tvg-logo="" group-title="Music",Dibi TV
 http://82.76.210.127:1935/dibitv/live/playlist.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="H!T Music Channel Hungary" tvg-logo="" group-title="Music",H!T Music Channel Hungary
@@ -370,7 +348,7 @@ https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w423951181.m3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music+" tvg-logo="" group-title="Music",Music+
 http://s02.diazol.hu:10192/stream.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PartyMix" tvg-logo="" group-title="Music",PartyMix
-http://103.145.13.15:25461/live/nou/nou/2.m3u8
+http://103.145.13.15:25461/live/promo/promo/2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trace Urban" tvg-logo="" group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV" tvg-logo="https://wp26-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10147_c_aed9d99df5827b99be57d94840d28020.png" group-title="Music",UTV
@@ -379,10 +357,6 @@ http://edge126.rcs-rds.ro/utvedge/utvhq.stream/chunklist_w419025515.m3u8
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIVA Russia" tvg-logo="" group-title="Music",VIVA Russia
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZU TV" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/a/a2/ZUTVLogo.png" group-title="Music",ZU TV
-https://iptv-all.lanesh4d0w.codes/romania/zutv 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZU Radio TV" tvg-logo="" group-title="Music",ZU Radio TV
-https://iptv-all.lanesh4d0w.codes/romania/zuradiotv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1TV" tvg-logo="" group-title="Undefined",1TV
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 Mix Teleshop" tvg-logo="" group-title="Undefined",24 Mix Teleshop
@@ -395,8 +369,6 @@ https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anixe HD" tvg-logo="" group-title="Undefined",Anixe HD
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pro TV International" tvg-logo="" group-title="Undefined",Pro TV International
-https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/v5Elkh4I6gj78NqdLbaDMg==,1643420783/channels/cme-ro-protv-international/playlist/rum/live_fullhd.m3u8?
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Apostol TV" tvg-logo="" group-title="Undefined",Apostol TV
 https://live.apostoltv.hu/online/smil:gazdagret.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATV" tvg-logo="" group-title="Undefined",ATV
