@@ -71,10 +71,6 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/S
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVRI Kanal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TVRIKanal3.png" group-title="General",TVRI Kanal 3
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 1 6+ " tvg-logo="https://telesputnik.ru/upload/iblock/2d6/Rossiya-1_b.jpg" group-title="General",Россия 1 6+ 
-http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 1 HD " tvg-logo="https://telesputnik.ru/upload/iblock/2d6/Rossiya-1_b.jpg" group-title="General",Россия 1 HD 
-https://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN Asia (Indonesia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Asia (Indonesia)
 http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax Asia (Vietnam)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies",Cinemax Asia
@@ -127,26 +123,12 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RedBull TV" tvg-logo="" group-title="Documentary",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="Documentary",RT Documentary
-https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT Documentary Russia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="Documentary",RT Documentary Russia
-https://hls.rt.com/hls/rtdru.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTG HD" tvg-logo="" group-title="Documentary",RTG HD
-http://ott-cdn.ucom.am/s63/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/RTG_2013_logo.png" group-title="Documentary",RTG TV
-http://ott-cdn.ucom.am/s80/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel Guide TV" tvg-logo="" group-title="Documentary",Travel Guide TV
-https://cdn10.live-tv.od.ua:8083/leonovtv/test-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel Mix" tvg-logo="" group-title="Documentary",Travel Mix
 http://89.38.8.131:39520/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel XP" tvg-logo="" group-title="Documentary",Travel XP
 https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRT World" tvg-logo="" group-title="Documentary",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="World Fashion Channel" group-title"Documentary",World Fashion Channel
-https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Купьтура" tvg-logo="" group-title="Documentary",Купьтура
-http://uiptv.do.am/1ufc/000000005/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A7 TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngq2cBuF88r1Mv66DM4uiWAF5pCEFsaQMXR_qNrIQ=s900-c-k-c0x00ffffff-no-rj" group-title="Local",A7 TV
 http://amsix214.streamkit.tv/edge/_definst_/aseventv_1000/chunklist.m3u8?wowzasessionid=831085941&cn=aseventv 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bucovina TV" tvg-logo="https://stvron.com/canale/512/bucovina-tv.png" group-title="Local",Bucovina TV
@@ -269,9 +251,7 @@ https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euronews Portugheze" tvg-logo="http://www.uworled.com/wp-content/uploads/2020/06/euronews-thumb.png" group-title="News",Euronews Portugheze
 https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euronews Russia" tvg-logo="http://www.uworled.com/wp-content/uploads/2020/06/euronews-thumb.png" group-title="News",Euronews Russia
-http://ott-cdn.ucom.am/s89/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euronews Spanish" tvg-logo="http://www.uworled.com/wp-content/uploads/2020/06/euronews-thumb.png" group-title="News",Euronews Spanish
+##EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euronews Spanish" tvg-logo="http://www.uworled.com/wp-content/uploads/2020/06/euronews-thumb.png" group-title="News",Euronews Spanish
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="(France24(enFrancais)(src01).es " tvg-name="France 24" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png" group-title="News",France 24
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8 
@@ -291,20 +271,8 @@ https://stream1.profit.ro:1945/profit/livestream/chunklist_w243257193.m3u8
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaPlus(src01).ro " tvg-name="Realitatea Plus" tvg-logo="" group-title="News",Realitatea Plus
 https://livestream.realitatea.net/livestream/liverealitatea.stream/chunklist.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT Arabic" tvg-logo="" group-title="News",RT Arabic
-https://rt-arb.gcdn.co/live/rtarab/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT EN" tvg-logo="" group-title="News",RT EN
-https://rt-usa.secure.footprint.net/1105.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT EN (UK) " tvg-logo="" group-title="News",RT EN (UK) 
-https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT ES" tvg-logo="" group-title="News",RT ES
-https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT FR" tvg-logo="" group-title="News",RT FR
-https://rt-france.secure.footprint.net/1107.m3u8?streamType=live
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky News" tvg-logo="" group-title="News",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 24" tvg-logo="https://lh3.googleusercontent.com/proxy/VseB-lqXUQQoO68WQ8VDMK_hBoUte6r-VY3mj08PynW6jN_BMXKptjByIlAgAtahaXQXek5MihJZMxj0KtG3t6OL5w8g4GgLM-9Ut3L3JDFl_6vQ-Ft0ZRPdDQMg3lXLhh7qQ-iOK_Kv5gDgfBdC" group-title="News",Россия 24
-http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist.m3u8
 #EXTINF:-1 tvg-ud="(no tvg-id)" tvg-name="Украïна 24" tvg-logo="" group-title="News",Украïна 24
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCMp5Buw-6LpbbV9r9Sl_5yg/live
 #EXTINF:-1 tvg-id="AnimaxAsia.jp" tvg-name="Animax Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Kids",Animax Asia
@@ -397,8 +365,6 @@ https://stream.unrealhosting.hu:443/hls/ozdtv/live.m3u8
 https://stream.unrealhosting.hu:443/hls/pannonrtv/live.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PIK Sat" tvg-logo="" group-title="Undefined",PIK Sat
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planeta RTR" tvg-logo="" group-title="Undefined",Planeta RTR
-https://a3569455801-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="QVC Japan" tvg-logo="" group-title="Undefined",QVC Japan
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shop HQ" tvg-logo="" group-title="Undefined",Shop HQ
