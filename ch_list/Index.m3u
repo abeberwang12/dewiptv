@@ -323,8 +323,6 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 http://edge126.rcs-rds.ro/utvedge/utvhq.stream/chunklist_w419025515.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VH1 Italy" tvg-logo="" group-title="Music",VH1 Italy
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIVA Russia" tvg-logo="" group-title="Music",VIVA Russia
-https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1TV" tvg-logo="" group-title="Undefined",1TV
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 Mix Teleshop" tvg-logo="" group-title="Undefined",24 Mix Teleshop
