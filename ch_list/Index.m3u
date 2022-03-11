@@ -84,9 +84,7 @@ http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thrill TV Asia (Indonesia) " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest/scale-to-width-down/340?cb=2017060605" group-title="Movies",Thrill TV Asia (Indonesia) 
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner TV Asia (Thailand) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Movies",Warner TV Asia (Thailand) 
-http://203.154.243.89:11205/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner TV Asia (Vietnam) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1280px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="Movies",Warner TV Asia (Vietnam) 
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8  
+http://203.154.243.89:11205/  
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV-9" tvg-logo="" group-title="Documentary",CCTV-9
 http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTN Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary",CGTN Documentary
@@ -305,8 +303,6 @@ http://hitmusic.hu/hitmusic.m3u8
 http://fms-https1.mediadirect.ro/live3/_definst_/kiss/chunklist_w633790898.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magic TV RO" tvg-logo="" group-title="Music",Magic TV RO
 https://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mezzo" tvg-logo="" group-title="Music",Mezzo
-http://ott-cdn.ucom.am/s35/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music 24" tvg-logo="" group-title="Music",Music 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music Channel HU" tvg-logo="" group-title="Music",Music Channel HU
@@ -315,8 +311,6 @@ http://www.1music.hu/1music.m3u8
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w423951181.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music+" tvg-logo="" group-title="Music",Music+
 http://s02.diazol.hu:10192/stream.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PartyMix" tvg-logo="" group-title="Music",PartyMix
-http://103.145.13.15:25461/live/promo/promo/2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trace Urban" tvg-logo="" group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV" tvg-logo="https://wp26-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10147_c_aed9d99df5827b99be57d94840d28020.png" group-title="Music",UTV
@@ -325,8 +319,6 @@ http://edge126.rcs-rds.ro/utvedge/utvhq.stream/chunklist_w419025515.m3u8
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1TV" tvg-logo="" group-title="Undefined",1TV
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 Mix Teleshop" tvg-logo="" group-title="Undefined",24 Mix Teleshop
-http://103.145.13.15:25461/live/nou/nou/1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ada TV (Cyprus/Turkish)" tvg-logo="" group-title="Undefined",Ada TV (Cyprus/Turkish)
 https://59cba4d34b678.streamlock.net/canlitv/kibrisadatv/playlist.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Agro TV" tvg-logo="" group-title="Undefined",Agro TV
