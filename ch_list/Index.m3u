@@ -29,12 +29,6 @@ https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenhash=hOdIz
 https://livebeta.publika.md/LIVE/P/1500.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rai 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1200px-Rai_3_-_Logo_2016.svg.png" group-title="General",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8 
-##EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RIK 2" tvg-logo="" group-title="General",RIK 2
-http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/28531
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL" tvg-logo="" group-title="General",RTL
-http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL + DE" tvg-logo="" group-title="General",RTL + DE
-http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/968
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL 2 HU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Logo_of_RTL_II_%28Hungary%29.png" group-title="General",RTL 2 HU
 https://stream.y5.hu/stream/stream_rtl2/hls1/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rtl gold" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/6/69/RTL_Gold_%282017-.n.v.%29.png/revision/latest?cb=20210114202805" group-title="General",Rtl gold
