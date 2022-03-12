@@ -9,14 +9,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 https://stream.y5.hu/stream/stream_cool/hls1/stream.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gem TV Asia" tvg-logo="https://static.wikia.nocookie.net/dreamfiction/images/1/13/Gem_TV_logo.png/revision/latest?cb=20210224034451" group-title="General",Gem TV Asia
 http://210.210.155.35/uq2663/h/h19/index.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITV" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" group-title="General",ITV
-http://31.220.41.88:8081/live/itv1.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1200px-ITV2_logo_2015.svg.png" group-title="General",ITV 2
-http://31.220.41.88:8081/live/itv2.stream/chunks.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1200px-ITV3_logo_2013.svg.png" group-title="General",ITV 3
-http://31.220.41.88:8081/live/itv3.stream/chunks.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITV 4" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s48020_dark_360w_270h.png" group-title="General",ITV 4
-http://31.220.41.88:8081/live/itv4.stream/chunks.m3u8 
 #EXTINF:-1 tvg-id="KanalD(src01).ro" tvg-name="Kanal D RO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Kanal_D_%281994-.n.v.%29.png" group-title="General",Kanal D RO
 https://stream1.kanald.ro/iphone/live.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D Turkey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Kanal_D_%281994-.n.v.%29.png" group-title="General",Kanal D Turkey
